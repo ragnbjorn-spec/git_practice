@@ -1,1 +1,1 @@
-print('Hello from feature branch') 
+print("это из ветки conflict") 
