@@ -1,1 +1,4 @@
-print("нв® Ё§ ўҐвЄЁ master") 
+
+print('Это из ветки master')
+
+print('Это из ветки conflict')
